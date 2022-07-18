@@ -12,3 +12,5 @@ RoxygenNote: 7.2.0
 Imports: 
     descdist,
     magrittr
+URL: https://github.com/sampadapokharel/sprph
+BugReports: https://github.com/sampadapokharel/sprph/issues

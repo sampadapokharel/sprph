@@ -14,3 +14,6 @@ Imports:
     magrittr
 URL: https://github.com/sampadapokharel/sprph
 BugReports: https://github.com/sampadapokharel/sprph/issues
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
